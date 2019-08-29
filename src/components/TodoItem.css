@@ -1,0 +1,9 @@
+.item-title {
+    text-align: center;
+    padding: 10px;
+    background-color: #ccc;
+}
+
+.completed-item {
+    text-decoration: line-through;
+}
